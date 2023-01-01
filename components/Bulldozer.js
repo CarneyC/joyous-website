@@ -18,8 +18,9 @@ export default function Bulldozer() {
                         <div className={styles["machine-front"]}></div>
                     </div>
                 </div>
+                <br/>
                 <h1>Under Construction</h1>
-<Gears/>
+                <Gears/>
                 <p className="description">
                     Please forgive the inconvenience.<br/>
                     We are currently initializing our brand new site.<br/><br/>
